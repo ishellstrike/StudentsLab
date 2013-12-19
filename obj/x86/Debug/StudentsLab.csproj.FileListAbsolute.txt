@@ -1,0 +1,8 @@
+c:\users\ishellstrike\documents\visual studio 2010\Projects\StudentsLab\StudentsLab\bin\Debug\StudentsLab.exe
+c:\users\ishellstrike\documents\visual studio 2010\Projects\StudentsLab\StudentsLab\bin\Debug\StudentsLab.pdb
+c:\users\ishellstrike\documents\visual studio 2010\Projects\StudentsLab\StudentsLab\bin\Debug\MySql.Data.dll
+c:\users\ishellstrike\documents\visual studio 2010\Projects\StudentsLab\StudentsLab\obj\x86\Debug\StudentsLab.Form1.resources
+c:\users\ishellstrike\documents\visual studio 2010\Projects\StudentsLab\StudentsLab\obj\x86\Debug\StudentsLab.Properties.Resources.resources
+c:\users\ishellstrike\documents\visual studio 2010\Projects\StudentsLab\StudentsLab\obj\x86\Debug\StudentsLab.csproj.GenerateResource.Cache
+c:\users\ishellstrike\documents\visual studio 2010\Projects\StudentsLab\StudentsLab\obj\x86\Debug\StudentsLab.exe
+c:\users\ishellstrike\documents\visual studio 2010\Projects\StudentsLab\StudentsLab\obj\x86\Debug\StudentsLab.pdb
